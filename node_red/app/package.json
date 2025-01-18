@@ -1,0 +1,12 @@
+{
+  "name": "node-red",
+  "version": "1.0.0",
+  "description": "A Node-RED application",
+  "main": "settings.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  }
+}
